@@ -52,11 +52,12 @@ My research direction is Document-grounded Dialogue System (DGDS). Unfortunately
 -->
 
 # 💻 Internships
-- *2022.05 - 2022.09*, Alibaba DAMO Academy, Beijing, China.
-- *2020.12 - 2021.05*, Baidu Inc., Shenzhen, China.
-- *2020.08 - 2020.12*, Tencent Inc., Shenzhen, China.
-- *2019.10 - 2020.08*, Didi Chuxing AI Labs, Beijing, China.
-- *2018.07 - 2019.01*, Likelihood Lab, Guangzhou, China.
+- *2022.12 - Now*, Research Assistant, National Institute of Informatics, Tokyo, Japan.
+- *2022.05 - 2022.09*, NLP Research Intern, Alibaba DAMO Academy, Beijing, China.
+- *2020.12 - 2021.05*, NLP Research Intern, Baidu Inc., Shenzhen, China.
+- *2020.08 - 2020.12*, NLP R&D Intern, Tencent Inc., Shenzhen, China.
+- *2019.10 - 2020.08*, NLP Research Intern, Didi Chuxing AI Labs, Beijing, China.
+- *2018.07 - 2019.01*, AI Research Intern, Likelihood Lab, Guangzhou, China.
 
 # 👓 Committees
 - Reviewer for conferences: ACL 2023; EACL 2023; EMNLP 2022,2021.
