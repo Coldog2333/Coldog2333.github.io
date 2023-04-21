@@ -20,6 +20,13 @@ This is Junfeng JIANG (江俊锋，こう　しゅんほう). Currently, I am a 
 
 My research direction is Document-grounded Dialogue System (DGDS). Unfortunately, it was almost perfectly done by CloseAI's ChatGPT/GPT-4. As a human, it is a piece of good news but as for a PhD candidate, it sucks. Anyway, any interesting discussion is welcome and my full publications can be accessed from google scholar. <a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+Currently, I am working on research related to
+- Large Language Model (no so large but large enough that cannot be fitted in a single A100 80GB GPU)
+- Chain-of-thought Finetuning
+- Evaluation for DGDS
+- Dialogue Segmentation
+
+Any collaboration or discussion is welcome!
 
 # 🔥 News
 - *2023.04*: &nbsp;🎉🎉 D1->D2.
@@ -32,7 +39,7 @@ My research direction is Document-grounded Dialogue System (DGDS). Unfortunately
 # 📝 Publications 
 ## Conference Papers
 - Che Liu, Rui Wang, **Junfeng Jiang**, Yongbin Li, Fei Huang. *Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings.* In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, Online and Abu Dhabi. Association for Computational Linguistics. **(EMNLP 2022)**. [[paper]](https://aclanthology.org/2022.emnlp-main.490.pdf); [[code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/dial2vec). [![](https://img.shields.io/github/stars/AlibabaResearch/DAMO-ConvAI?style=social&label=Stars)](https://github.com/AlibabaResearch/DAMO-ConvAI)
-- **Junfeng Jiang**, An Wang\*, and Akiko Aizawa. *Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction*. The 16th Conference of the European Chapter of the Association for Computational Linguistics, pp.1986–1997. Online, April 19–23, 2021. **(EACL 2021)**. [[paper]](https://aclanthology.org/2021.eacl-main.170.pdf); [[code]](https://github.com/wcwowwwww/towe-eacl). [![](https://img.shields.io/github/stars/wcwowwwww/towe-eacl?style=social&label=Stars)](https://github.com/wcwowwwww/towe-eacl)
+- **Junfeng Jiang**\*, An Wang\*, and Akiko Aizawa. *Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction*. The 16th Conference of the European Chapter of the Association for Computational Linguistics, pp.1986–1997. Online, April 19–23, 2021. **(EACL 2021)**. [[paper]](https://aclanthology.org/2021.eacl-main.170.pdf); [[code]](https://github.com/wcwowwwww/towe-eacl). [![](https://img.shields.io/github/stars/wcwowwwww/towe-eacl?style=social&label=Stars)](https://github.com/wcwowwwww/towe-eacl)
 - Che Liu, **Junfeng Jiang**, Chao Xiong, Yi Yang, Jieping Ye. *Towards Building an Intelligent Chatbot for Customer Service: Learning to Respond at the Appropriate Time*. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 3377-3385). **(KDD 2020)**. [[paper]](https://dl.acm.org/doi/10.1145/3394486.3403390).
 
 ## Preprints
@@ -47,6 +54,7 @@ My research direction is Document-grounded Dialogue System (DGDS). Unfortunately
 - N/A
 -->
 # 💰 Fundings
+- *2022.12 - 2023.03*, Self-directed and integrated project research, SPRING GX, JST. (~500K JPY)
 - *2022.04 - 2025.04*, SPRING GX, JST. (~1M JPY)
 
 <!--
@@ -54,7 +62,7 @@ My research direction is Document-grounded Dialogue System (DGDS). Unfortunately
 - N/A
 -->
 
-# 💻 Internships
+# 👨‍💻 Internships
 - *2022.12 - Now*, Research Assistant, National Institute of Informatics, Tokyo, Japan.
 - *2022.05 - 2022.09*, NLP Research Intern, Alibaba DAMO Academy, Beijing, China.
 - *2020.12 - 2021.05*, NLP Research Intern, Baidu Inc., Shenzhen, China.
