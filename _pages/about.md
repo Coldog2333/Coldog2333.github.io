@@ -29,7 +29,8 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome!
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 D1->D2.
+- *2023.05*:  <img src="https://pic1.zhimg.com/80/v2-1ee42194de58b62f929d5abccfbde184_1440w.webp" width = "20" height = "20" alt="图片名称" align=center /> A paper was rejected by ACL 2023.
+- *2023.04*: 🎉 D1->D2.
 
 # 📖 Educations
 - *2022.04 - Now*, Ph.D. candidate in Computer Science, The University of Tokyo. 
