@@ -29,6 +29,7 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome!
 
 # 🔥 News
+- *2023.05*: [SuperDialseg](https://github.com/Coldog2333/SuperDialseg) is publicly available. You can segment your dialogues in two lines.
 - *2023.05*:  <img src="https://pic1.zhimg.com/80/v2-1ee42194de58b62f929d5abccfbde184_1440w.webp" width = "20" height = "20" alt="图片名称" align=center /> A paper was rejected by ACL 2023.
 - *2023.04*: 🎉 D1->D2.
 
@@ -48,6 +49,7 @@ Any collaboration or discussion is welcome!
 - **Junfeng Jiang**, Jiahao Li. *Constructing financial sentimental factors in Chinese market using natural language processing*. arXiv preprint arXiv:1809.08390. [[paper]](https://arxiv.org/pdf/1809.08390.pdf); [[code]](https://github.com/Coldog2333/Financial-NLP). [![](https://img.shields.io/github/stars/Coldog2333/Financial-NLP?style=social&label=Stars)](https://github.com/Coldog2333/Financial-NLP)
 
 # 💻 Projects
+- SuperDialseg [![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)](https://github.com/Coldog2333/SuperDialseg) is an easy to use python library for dialogue segmentation.
 - pytoflow [![](https://img.shields.io/github/stars/Coldog2333/pytoflow?style=social&label=Stars)](https://github.com/Coldog2333/pytoflow) is an unofficial PyTorch version implementation of [TOFlow: Video Enhancement with Task-Oriented Flow](http://toflow.csail.mit.edu/toflow_ijcv.pdf). [[demo]](https://www.bilibili.com/video/av39553558/).
 
 <!--
