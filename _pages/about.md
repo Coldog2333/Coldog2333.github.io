@@ -45,6 +45,7 @@ Any collaboration or discussion is welcome!
 - Che Liu, **Junfeng Jiang**, Chao Xiong, Yi Yang, Jieping Ye. *Towards Building an Intelligent Chatbot for Customer Service: Learning to Respond at the Appropriate Time*. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 3377-3385). **(KDD 2020)**. [[paper]](https://dl.acm.org/doi/10.1145/3394486.3403390).
 
 ## Preprints
+- **Junfeng Jiang**, Chengzhang Dong, Akiko Aizawa, Sadao Kurohashi. *SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation*. arXiv preprint arXiv:2305.08371. [[paper]](https://arxiv.org/pdf/2305.08371.pdf). 
 - Chao Xiong, Che Liu, Zijun Xu, **Junfeng Jiang**, Jieping Ye. *Sequential Sentence Matching Network for Multi-turn Response Selection in Retrieval-based Chatbots*. arXiv preprint arXiv:2005.07923. [[paper]](https://arxiv.org/pdf/2005.07923.pdf).
 - **Junfeng Jiang**, Jiahao Li. *Constructing financial sentimental factors in Chinese market using natural language processing*. arXiv preprint arXiv:1809.08390. [[paper]](https://arxiv.org/pdf/1809.08390.pdf); [[code]](https://github.com/Coldog2333/Financial-NLP). [![](https://img.shields.io/github/stars/Coldog2333/Financial-NLP?style=social&label=Stars)](https://github.com/Coldog2333/Financial-NLP)
 
