@@ -29,6 +29,7 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome!
 
 # 🔥 News
+- *2023.05*: 🎉 A paper was accepted by \*SEM 2023.
 - *2023.05*: [SuperDialseg](https://github.com/Coldog2333/SuperDialseg) is publicly available. You can segment your dialogues in two lines.
 - *2023.05*:  <img src="https://pic1.zhimg.com/80/v2-1ee42194de58b62f929d5abccfbde184_1440w.webp" width = "20" height = "20" alt="图片名称" align=center /> A paper was rejected by ACL 2023.
 - *2023.04*: 🎉 D1->D2.
@@ -40,6 +41,7 @@ Any collaboration or discussion is welcome!
 
 # 📝 Publications 
 ## Conference Papers
+- An Wang, **Junfeng Jiang**, Youmi Ma, Ao Liu and Naoaki Okazaki. *Generative Data Augmentation for Aspect Sentiment Quad Prediction*. In The 12th Joint Conference on Lexical and Computational Semantics. **(\*SEM 2023)**. (to appear)
 - Che Liu, Rui Wang, **Junfeng Jiang**, Yongbin Li, Fei Huang. *Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings.* In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, Online and Abu Dhabi. Association for Computational Linguistics. **(EMNLP 2022)**. [[paper]](https://aclanthology.org/2022.emnlp-main.490.pdf); [[code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/dial2vec). [![](https://img.shields.io/github/stars/AlibabaResearch/DAMO-ConvAI?style=social&label=Stars)](https://github.com/AlibabaResearch/DAMO-ConvAI)
 - **Junfeng Jiang**\*, An Wang\*, and Akiko Aizawa. *Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction*. The 16th Conference of the European Chapter of the Association for Computational Linguistics, pp.1986–1997. Online, April 19–23, 2021. **(EACL 2021)**. [[paper]](https://aclanthology.org/2021.eacl-main.170.pdf); [[code]](https://github.com/wcwowwwww/towe-eacl). [![](https://img.shields.io/github/stars/wcwowwwww/towe-eacl?style=social&label=Stars)](https://github.com/wcwowwwww/towe-eacl)
 - Che Liu, **Junfeng Jiang**, Chao Xiong, Yi Yang, Jieping Ye. *Towards Building an Intelligent Chatbot for Customer Service: Learning to Respond at the Appropriate Time*. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 3377-3385). **(KDD 2020)**. [[paper]](https://dl.acm.org/doi/10.1145/3394486.3403390).
