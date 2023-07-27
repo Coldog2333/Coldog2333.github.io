@@ -77,6 +77,6 @@ Any collaboration or discussion is welcome!
 - *2018.07 - 2019.01*, AI Research Intern, Likelihood Lab, Guangzhou, China.
 
 # 👓 Committees
-- Invited Reviewer for conferences: ACL 2023; EACL 2023; EMNLP 2022,2021.
-- Secondary Reviewer for conferences: AACL 2023.
+- Invited Reviewer for conferences: ACL 2023; EACL 2023; EMNLP 2023,2022,2021.
+- Secondary Reviewer for conferences: IJCNLP-AACL 2023.
 
