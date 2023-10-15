@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 This is Junfeng JIANG (江俊锋，こう　しゅんほう). Currently, I am a D2 student in the University of Tokyo under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/ja/), supported by [SPRING GX Program](https://spring-gx.adm.s.u-tokyo.ac.jp/en/). 
 
-My research direction is focusing on developing biomedical large language models. My previous research direction is Document-grounded Dialogue System (DGDS). Unfortunately, it was almost perfectly done by CloseAI's ChatGPT/GPT-4. As a human, it is a piece of good news but as for a PhD candidate, it sucks. Anyway, any interesting discussion is welcome and my full publications can be accessed from google scholar. <a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research direction is focusing on developing biomedical large language models. My previous research direction is Document-grounded Dialogue System (DGDS). Unfortunately, it was almost perfectly done by CloseAI's ChatGPT/GPT-4. As a human, it is a piece of good news but as for a PhD candidate, it sucks. Anyway, any interesting discussion is welcome and my full publications can be accessed from google scholar. <a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'></a>).
 
 Currently, I am working on research related to
 - Large Language Model (not so large but large enough that cannot be fitted in a single A100 80GB GPU)
