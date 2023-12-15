@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 This is Junfeng JIANG (江俊锋，こう　しゅんほう). Currently, I am a D2 student in the University of Tokyo under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/ja/), supported by [SPRING GX Program](https://spring-gx.adm.s.u-tokyo.ac.jp/en/). 
 
-My research direction is focusing on developing biomedical large language models. My previous research direction is Document-grounded Dialogue System (DGDS). Unfortunately, it was almost perfectly done by CloseAI's ChatGPT/GPT-4. As a human, it is a piece of good news but as for a PhD candidate, it sucks. Anyway, any interesting discussion is welcome and my full publications can be accessed from google scholar. <a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'></a>).
+My research direction is focusing on developing biomedical large language models. My previous research direction is Document-grounded Dialogue System (DGDS). Unfortunately, it was almost perfectly done by CloseAI's ChatGPT/GPT-4. As a human, it is a piece of good news but as for a PhD candidate, it sucks. Anyway, any interesting discussion is welcome and my full publications can be accessed from Google Scholar.<a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'></a>).
 
 Currently, I am working on research related to
 - Large Language Model (not so large but large enough that cannot be fitted in a single A100 80GB GPU)
@@ -29,6 +29,7 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome!
 
 # 🔥 News
+- *2023.12*: 🎉 A paper was accepted as a full paper by ECIR 2024.
 - *2023.10*: 🎉 A paper was accepted as a main paper by EMNLP 2023.
 - *2023.08*: [BioMed-Llama](https://github.com/Coldog2333/BioMed-LLaMA) is publicly available.
 - *2023.05*: 🎉 A paper was accepted by \*SEM 2023.
@@ -41,7 +42,8 @@ Any collaboration or discussion is welcome!
 
 # 📝 Publications 
 ## Conference Papers
-- **Junfeng Jiang**, Chengzhang Dong, Sadao Kurohashi, Akiko Aizawa. *SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation*. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, to appear, Singapore, Resorts World Convention Centre. Association for Computational Linguistics. **(EMNLP 2023)**. [[paper]](https://arxiv.org/pdf/2305.08371.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg). ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)
+- Davide Baldelli, **Junfeng Jiang**, Akiko Aizawa and Paolo Torroni. *TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking*, to appear, The 46th European Conference on Information Retrieval, Glasgow, Scotland, UK.  **(ECIR 2024)**.
+- **Junfeng Jiang**, Chengzhang Dong, Sadao Kurohashi, Akiko Aizawa. *SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation*. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 4086–4101, Singapore. Association for Computational Linguistics. **(EMNLP 2023)**. [[paper]](https://aclanthology.org/2023.emnlp-main.249.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg). ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)
 - An Wang, **Junfeng Jiang**, Youmi Ma, Ao Liu, and Naoaki Okazaki. 2023. *Generative Data Augmentation for Aspect Sentiment Quad Prediction*. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 128–140, Toronto, Canada. Association for Computational Linguistics. **(\*SEM 2023)**. [[paper]](https://aclanthology.org/2023.starsem-1.12.pdf); [[code]](https://github.com/AnWang-AI/AugABSA). [![](https://img.shields.io/github/stars/AnWang-AI/AugABSA?style=social&label=Stars)](https://github.com/AnWang-AI/AugABSA)
 - Che Liu, Rui Wang, **Junfeng Jiang**, Yongbin Li, Fei Huang. *Dial2vec: Self-Guided Contrastive Learning of Unsupervised Dialogue Embeddings.* In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 7272–7282, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics. **(EMNLP 2022)**. [[paper]](https://aclanthology.org/2022.emnlp-main.490.pdf); [[code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/dial2vec). [![](https://img.shields.io/github/stars/AlibabaResearch/DAMO-ConvAI?style=social&label=Stars)](https://github.com/AlibabaResearch/DAMO-ConvAI)
 - **Junfeng Jiang**\*, An Wang\*, and Akiko Aizawa. *Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction*. The 16th Conference of the European Chapter of the Association for Computational Linguistics, pp.1986–1997. Online, April 19–23, 2021. **(EACL 2021)**. [[paper]](https://aclanthology.org/2021.eacl-main.170.pdf); [[code]](https://github.com/wcwowwwww/towe-eacl). [![](https://img.shields.io/github/stars/wcwowwwww/towe-eacl?style=social&label=Stars)](https://github.com/wcwowwwww/towe-eacl)
