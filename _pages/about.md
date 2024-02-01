@@ -29,6 +29,7 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome!
 
 # 🔥 News
+- *2024.01*: 💪🏻 A survey paper for SciLMs has been completed.
 - *2024.01*: 🎉 A paper was accepted by IEEE Access.
 - *2023.12*: 🎉 A paper was accepted as a full paper by ECIR 2024.
 - *2023.10*: 🎉 A paper was accepted as a main paper by EMNLP 2023.
@@ -55,8 +56,10 @@ Any collaboration or discussion is welcome!
 
 ## Preprints
 <!-- - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari (2023). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*. arXiv preprint arXiv:2310.06072. [[paper]](https://arxiv.org/pdf/2310.06072.pdf).-->
+- Xanh Ho\*, Anh Khoa Duong Nguyen\*, An Tuan Dao\*, **Junfeng Jiang**\*, Yuki Chida\*, Kaito Sugimoto\*, Huy Quoc To, Florian Boudin, Akiko Aizawa. *A Survey of Pre-trained Language Models for Processing Scientific Text*. arXiv preprint arXiv:2401.17824. [[paper]](https://arxiv.org/pdf/2401.17824.pdf).
 - Chao Xiong, Che Liu, Zijun Xu, **Junfeng Jiang**, Jieping Ye. *Sequential Sentence Matching Network for Multi-turn Response Selection in Retrieval-based Chatbots*. arXiv preprint arXiv:2005.07923. [[paper]](https://arxiv.org/pdf/2005.07923.pdf).
 - **Junfeng Jiang**, Jiahao Li. *Constructing financial sentimental factors in Chinese market using natural language processing*. arXiv preprint arXiv:1809.08390. [[paper]](https://arxiv.org/pdf/1809.08390.pdf); [[code]](https://github.com/Coldog2333/Financial-NLP). [![](https://img.shields.io/github/stars/Coldog2333/Financial-NLP?style=social&label=Stars)](https://github.com/Coldog2333/Financial-NLP)
+  
 
 # 💻 Projects
 - SuperDialseg [![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)](https://github.com/Coldog2333/SuperDialseg) is an easy to use python library for dialogue segmentation.
