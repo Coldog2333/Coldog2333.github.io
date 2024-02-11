@@ -44,7 +44,7 @@ Any collaboration or discussion is welcome!
 
 # 📝 Publications 
 ## Journals
-- Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions. IEEE Access, to appear.
+- Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*, in IEEE Access, vol. 12, pp. 19752-19764, 2024, doi: 10.1109/ACCESS.2024.3360885.
 
 ## Conference Papers
 - Davide Baldelli, **Junfeng Jiang**, Akiko Aizawa and Paolo Torroni. *TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking*, to appear, The 46th European Conference on Information Retrieval, Glasgow, Scotland, UK.  **(ECIR 2024)**.
