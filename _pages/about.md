@@ -88,6 +88,6 @@ Any collaboration or discussion is welcome!
 - *2018.07 - 2019.01*, AI Research Intern, Likelihood Lab, Guangzhou, China.
 
 # 👓 Committees
-- Invited Reviewer for conferences: LREC-COLING 2024; ACL 2023; EACL 2023; EMNLP 2023,2022,2021.
+- Invited Reviewer for conferences: CIKM 2024; LREC-COLING 2024; ACL 2023; EACL 2023; EMNLP 2023,2022,2021.
 - Secondary Reviewer for conferences: IJCNLP-AACL 2023.
 
