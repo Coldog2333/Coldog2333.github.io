@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-This is Junfeng JIANG (江俊锋，こう　しゅんほう). Currently, I am a D3 student in the University of Tokyo under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/ja/), supported by [SPRING GX Program](https://spring-gx.adm.s.u-tokyo.ac.jp/en/). 
+This is Junfeng JIANG (江俊锋，こう　しゅんほう). Currently, I am a D3 student at the University of Tokyo under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/ja/), supported by [SPRING GX Program](https://spring-gx.adm.s.u-tokyo.ac.jp/en/). 
 
 My research direction is focusing on developing biomedical large language models. My previous research direction is Document-grounded Dialogue System (DGDS). Unfortunately, it was almost perfectly done by CloseAI's ChatGPT/GPT-4. As a human, it is a piece of good news but as for a PhD candidate, it sucks. Anyway, any interesting discussion is welcome and my full publications can be accessed from Google Scholar.<a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'></a>).
 
@@ -29,13 +29,10 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome!
 
 # 🔥 News
+- *2024.09*: 🎉 A paper was accepted as the EMNLP 2024 findings.
+- *2024.09*: 💪🏻 [JMedBench](https://huggingface.co/datasets/Coldog2333/JMedBench) is publicly available to support the development of Japanese biomedical LLMs.
 - *2024.01*: 💪🏻 A survey paper for SciLMs has been completed.
-- *2024.01*: 🎉 A paper was accepted by IEEE Access.
-- *2023.12*: 🎉 A paper was accepted as a full paper by ECIR 2024.
-- *2023.10*: 🎉 A paper was accepted as a main paper by EMNLP 2023.
 - *2023.08*: [BioMed-Llama](https://github.com/Coldog2333/BioMed-LLaMA) is publicly available.
-- *2023.05*: 🎉 A paper was accepted by \*SEM 2023.
-- *2023.05*: [SuperDialseg](https://github.com/Coldog2333/SuperDialseg) is publicly available. You can segment your dialogues with **two lines** of Python codes.
 
 # 📖 Educations
 - *2022.04 - Now*, Ph.D. candidate in Computer Science, The University of Tokyo. 
@@ -47,6 +44,7 @@ Any collaboration or discussion is welcome!
 - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*, in IEEE Access, vol. 12, pp. 19752-19764, 2024, doi: 10.1109/ACCESS.2024.3360885.
 
 ## Conference Papers
+- **Junfeng Jiang**, Fei Cheng, Akiko Aizawa. *Improving Referring Ability for Biomedical Language Models*. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, U.S.A. Association for Computational Linguistics. **(EMNLP 2024)**.
 - Davide Baldelli, **Junfeng Jiang**, Akiko Aizawa and Paolo Torroni. *TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking*. In European Conference on Information Retrieval, vol 14608, pages 470-485, 2024, Springer. doi: 10.1007/978-3-031-56027-9_29. **(ECIR 2024)**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_29); [[code]](https://github.com/Dundalia/TWOLAR). ![](https://img.shields.io/github/stars/Dundalia/TWOLAR?style=social&label=Stars)
 - **Junfeng Jiang**, Chengzhang Dong, Sadao Kurohashi, Akiko Aizawa. *SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation*. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 4086–4101, Singapore. Association for Computational Linguistics. **(EMNLP 2023)**. [[paper]](https://aclanthology.org/2023.emnlp-main.249.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg). ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)
 - An Wang, **Junfeng Jiang**, Youmi Ma, Ao Liu, and Naoaki Okazaki. 2023. *Generative Data Augmentation for Aspect Sentiment Quad Prediction*. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 128–140, Toronto, Canada. Association for Computational Linguistics. **(\*SEM 2023)**. [[paper]](https://aclanthology.org/2023.starsem-1.12.pdf); [[code]](https://github.com/AnWang-AI/AugABSA). [![](https://img.shields.io/github/stars/AnWang-AI/AugABSA?style=social&label=Stars)](https://github.com/AnWang-AI/AugABSA)
@@ -56,9 +54,10 @@ Any collaboration or discussion is welcome!
 
 ## Preprints
 <!-- - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari (2023). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*. arXiv preprint arXiv:2310.06072. [[paper]](https://arxiv.org/pdf/2310.06072.pdf).-->
-- Xanh Ho\*, Anh Khoa Duong Nguyen\*, An Tuan Dao\*, **Junfeng Jiang**\*, Yuki Chida\*, Kaito Sugimoto\*, Huy Quoc To, Florian Boudin, Akiko Aizawa. *A Survey of Pre-trained Language Models for Processing Scientific Text*. arXiv preprint arXiv:2401.17824. [[paper]](https://arxiv.org/pdf/2401.17824.pdf).
-- Chao Xiong, Che Liu, Zijun Xu, **Junfeng Jiang**, Jieping Ye. *Sequential Sentence Matching Network for Multi-turn Response Selection in Retrieval-based Chatbots*. arXiv preprint arXiv:2005.07923. [[paper]](https://arxiv.org/pdf/2005.07923.pdf).
-- **Junfeng Jiang**, Jiahao Li. *Constructing financial sentimental factors in Chinese market using natural language processing*. arXiv preprint arXiv:1809.08390. [[paper]](https://arxiv.org/pdf/1809.08390.pdf); [[code]](https://github.com/Coldog2333/Financial-NLP). [![](https://img.shields.io/github/stars/Coldog2333/Financial-NLP?style=social&label=Stars)](https://github.com/Coldog2333/Financial-NLP)
+- Chengzhi Zhong, Fei Cheng, Qianying Liu, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, & Sadao Kurohashi. (2024). *Beyond English-Centric LLMs: What Language Do Multilingual Language Models Think in?*. arXiv preprint arXiv:2408.10811. [[paper]](https://arxiv.org/pdf/2408.10811).
+- Xanh Ho\*, Anh Khoa Duong Nguyen\*, An Tuan Dao\*, **Junfeng Jiang**\*, Yuki Chida\*, Kaito Sugimoto\*, Huy Quoc To, Florian Boudin, Akiko Aizawa. *A Survey of Pre-trained Language Models for Processing Scientific Text*. arXiv preprint arXiv:2401.17824. [[paper]](https://arxiv.org/pdf/2401.17824).
+- Chao Xiong, Che Liu, Zijun Xu, **Junfeng Jiang**, Jieping Ye. *Sequential Sentence Matching Network for Multi-turn Response Selection in Retrieval-based Chatbots*. arXiv preprint arXiv:2005.07923. [[paper]](https://arxiv.org/pdf/2005.07923).
+- **Junfeng Jiang**, Jiahao Li. *Constructing financial sentimental factors in Chinese market using natural language processing*. arXiv preprint arXiv:1809.08390. [[paper]](https://arxiv.org/pdf/1809.08390); [[code]](https://github.com/Coldog2333/Financial-NLP). [![](https://img.shields.io/github/stars/Coldog2333/Financial-NLP?style=social&label=Stars)](https://github.com/Coldog2333/Financial-NLP)
   
 
 # 💻 Projects
@@ -88,6 +87,6 @@ Any collaboration or discussion is welcome!
 - *2018.07 - 2019.01*, AI Research Intern, Likelihood Lab, Guangzhou, China.
 
 # 👓 Committees
-- Invited Reviewer for conferences: CIKM 2024; LREC-COLING 2024; ACL 2023; EACL 2023; EMNLP 2023,2022,2021.
+- Invited Reviewer for conferences: CIKM 2024; LREC-COLING 2025,2024; ACL 2023; EACL 2023; EMNLP 2023,2022,2021.
 - Secondary Reviewer for conferences: IJCNLP-AACL 2023.
 
