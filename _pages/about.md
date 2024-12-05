@@ -29,7 +29,7 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome!
 
 # 🔥 News
-- *2024.09*: 💪🏻 Details of JMedBench have been released in [this paper](https://arxiv.org/pdf/2409.13317).
+- *2024.11*: 🎉 The paper about JMedBench was accepted by COLING 2025.
 - *2024.09*: 🎉 A paper was accepted as the EMNLP 2024 findings.
 - *2024.09*: 💪🏻 [JMedBench](https://huggingface.co/datasets/Coldog2333/JMedBench) is publicly available to support the development of Japanese biomedical LLMs.
 - *2024.01*: 💪🏻 A survey paper for SciLMs has been completed.
@@ -45,7 +45,8 @@ Any collaboration or discussion is welcome!
 - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*, in IEEE Access, vol. 12, pp. 19752-19764, 2024, doi: 10.1109/ACCESS.2024.3360885.
 
 ## Conference Papers
-- **Junfeng Jiang**, Fei Cheng, Akiko Aizawa. *Improving Referring Ability for Biomedical Language Models*. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, U.S.A. Association for Computational Linguistics. **(EMNLP 2024, findings)**. [[paper]](https://openreview.net/pdf?id=v5YGQK1qCP); [[code]](https://github.com/Coldog2333/BioLinkLM). ![](https://img.shields.io/github/stars/Coldog2333/BioLinkLM?style=social&label=Stars)
+- **Junfeng Jiang**, Jiahao Huang, Akiko Aizawa. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models* The 31st International Conference on Computational Linguistics (COLING 2025). January, to appear. 2025. [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench).
+- **Junfeng Jiang**, Fei Cheng, and Akiko Aizawa. 2024. Improving Referring Ability for Biomedical Language Models. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 6444–6457, Miami, Florida, USA. Association for Computational Linguistics. **(EMNLP 2024, findings)**. [[paper]](https://openreview.net/pdf?id=v5YGQK1qCP); [[code]](https://github.com/Coldog2333/BioLinkLM). ![](https://img.shields.io/github/stars/Coldog2333/BioLinkLM?style=social&label=Stars)
 - Davide Baldelli, **Junfeng Jiang**, Akiko Aizawa and Paolo Torroni. *TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking*. In European Conference on Information Retrieval, vol 14608, pages 470-485, 2024, Springer. doi: 10.1007/978-3-031-56027-9_29. **(ECIR 2024)**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_29); [[code]](https://github.com/Dundalia/TWOLAR). ![](https://img.shields.io/github/stars/Dundalia/TWOLAR?style=social&label=Stars)
 - **Junfeng Jiang**, Chengzhang Dong, Sadao Kurohashi, Akiko Aizawa. *SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation*. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 4086–4101, Singapore. Association for Computational Linguistics. **(EMNLP 2023)**. [[paper]](https://aclanthology.org/2023.emnlp-main.249.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg). ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)
 - An Wang, **Junfeng Jiang**, Youmi Ma, Ao Liu, and Naoaki Okazaki. 2023. *Generative Data Augmentation for Aspect Sentiment Quad Prediction*. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 128–140, Toronto, Canada. Association for Computational Linguistics. **(\*SEM 2023)**. [[paper]](https://aclanthology.org/2023.starsem-1.12.pdf); [[code]](https://github.com/AnWang-AI/AugABSA). [![](https://img.shields.io/github/stars/AnWang-AI/AugABSA?style=social&label=Stars)](https://github.com/AnWang-AI/AugABSA)
@@ -55,7 +56,7 @@ Any collaboration or discussion is welcome!
 
 ## Preprints
 <!-- - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari (2023). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*. arXiv preprint arXiv:2310.06072. [[paper]](https://arxiv.org/pdf/2310.06072.pdf).-->
-- **Junfeng Jiang**, Jiahao Huang, Akiko Aizawa. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models*. arXiv preprint arXiv:2409.13317. [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench).
+<!-- - **Junfeng Jiang**, Jiahao Huang, Akiko Aizawa. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models*. arXiv preprint arXiv:2409.13317. [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench).-->
 - Chengzhi Zhong, Fei Cheng, Qianying Liu, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, & Sadao Kurohashi. *Beyond English-Centric LLMs: What Language Do Multilingual Language Models Think in?*. arXiv preprint arXiv:2408.10811. [[paper]](https://arxiv.org/pdf/2408.10811).
 - Xanh Ho\*, Anh Khoa Duong Nguyen\*, An Tuan Dao\*, **Junfeng Jiang**\*, Yuki Chida\*, Kaito Sugimoto\*, Huy Quoc To, Florian Boudin, Akiko Aizawa. *A Survey of Pre-trained Language Models for Processing Scientific Text*. arXiv preprint arXiv:2401.17824. [[paper]](https://arxiv.org/pdf/2401.17824).
 - Chao Xiong, Che Liu, Zijun Xu, **Junfeng Jiang**, Jieping Ye. *Sequential Sentence Matching Network for Multi-turn Response Selection in Retrieval-based Chatbots*. arXiv preprint arXiv:2005.07923. [[paper]](https://arxiv.org/pdf/2005.07923).
@@ -63,7 +64,6 @@ Any collaboration or discussion is welcome!
   
 
 # 💻 Projects
-- SuperDialseg [![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)](https://github.com/Coldog2333/SuperDialseg) is an easy to use python library for dialogue segmentation.
 - BioMed-LLaMA [![](https://img.shields.io/github/stars/Coldog2333/BioMed-LLaMA?style=social&label=Stars)](https://github.com/Coldog2333/BioMed-LLaMA) is a project of continuous pre-training for biomedical LLM.
 - pytoflow [![](https://img.shields.io/github/stars/Coldog2333/pytoflow?style=social&label=Stars)](https://github.com/Coldog2333/pytoflow) is an unofficial PyTorch version implementation of [TOFlow: Video Enhancement with Task-Oriented Flow](http://toflow.csail.mit.edu/toflow_ijcv.pdf). [[demo]](https://www.bilibili.com/video/av39553558/).
 
@@ -91,4 +91,3 @@ Any collaboration or discussion is welcome!
 # 👓 Committees
 - Invited Reviewer for conferences: COLING 2025; CIKM 2024; LREC-COLING 2024; ACL 2023; EACL 2023; EMNLP 2023,2022,2021.
 - Secondary Reviewer for conferences: IJCNLP-AACL 2023.
-
