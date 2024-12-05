@@ -64,7 +64,7 @@ Any collaboration or discussion is welcome!
   
 
 # 💻 Projects
-- med-eval ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars) is an evaluation library for medical tasks.
+- med-eval ![](https://img.shields.io/github/stars/nii-nlp/med-eval?style=social&label=Stars) is an evaluation library for medical tasks.
 - BioMed-LLaMA [![](https://img.shields.io/github/stars/Coldog2333/BioMed-LLaMA?style=social&label=Stars)](https://github.com/Coldog2333/BioMed-LLaMA) is a project of continuous pre-training for biomedical LLM.
 - pytoflow [![](https://img.shields.io/github/stars/Coldog2333/pytoflow?style=social&label=Stars)](https://github.com/Coldog2333/pytoflow) is an unofficial PyTorch version implementation of [TOFlow: Video Enhancement with Task-Oriented Flow](http://toflow.csail.mit.edu/toflow_ijcv.pdf). [[demo]](https://www.bilibili.com/video/av39553558/).
 
