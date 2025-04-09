@@ -16,32 +16,39 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-This is Junfeng JIANG (江俊锋，こう　しゅんほう). Currently, I am a D3 student at the University of Tokyo under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/ja/), supported by [SPRING GX Program](https://spring-gx.adm.s.u-tokyo.ac.jp/en/). 
+This is Junfeng JIANG (江俊锋，こう　しゅんほう). Currently, I am a project researcher at [the Research and Development Center for Large Language Models (LLMC)](https://llmc.nii.ac.jp/en/) of the National Institute of Informatics (NII). Previously, I was a PhD student at the University of Tokyo under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/ja/), supported by [SPRING GX Program](https://spring-gx.adm.s.u-tokyo.ac.jp/en/). 
 
-My research direction is focusing on developing biomedical large language models. My previous research direction is Document-grounded Dialogue System (DGDS). Unfortunately, it was almost perfectly done by CloseAI's ChatGPT/GPT-4. As a human, it is a piece of good news but as for a PhD candidate, it sucks. Anyway, any interesting discussion is welcome and my full publications can be accessed from Google Scholar.<a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'></a>).
+My research direction is focusing on developing biomedical large language models. My previous research direction is Document-grounded Dialogue System (DGDS). Any interesting discussion is welcome and my full publications can be accessed from Google Scholar.<a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'></a>).
 
 Currently, I am working on research related to
 - Large Language Model (not so large but large enough that cannot be fitted in a single A100 80GB GPU)
 - Biomedical Language Model
-- Dialogue Segmentation
 - Chain-of-thought Finetuning
 
 Any collaboration or discussion is welcome!
 
 # 🔥 News
+- *2025.04*: 🎉 A journal paper was published in IEEE Access.
 - *2024.11*: 🎉 The paper about JMedBench was accepted by COLING 2025.
-- *2024.09*: 🎉 A paper was accepted as the EMNLP 2024 findings.
-- *2024.09*: 💪🏻 [JMedBench](https://huggingface.co/datasets/Coldog2333/JMedBench) is publicly available to support the development of Japanese biomedical LLMs.
+- *2024.09*: 🎉 A paper about pre-training sequence design was accepted as the EMNLP 2024 findings.
 - *2024.01*: 💪🏻 A survey paper for SciLMs has been completed.
-- *2023.08*: [BioMed-Llama](https://github.com/Coldog2333/BioMed-LLaMA) is publicly available.
-
+  
 # 📖 Educations
 - *2022.04 - Now*, Ph.D. candidate in Computer Science, The University of Tokyo. 
 - *2019.09 - 2022.04*, M.S. in Computer Science (2.88/3.0), The University of Tokyo.
 - *2015.08 - 2019.07*, B.S. in Mathematics And Applied Mathematics (3.7/5.0), Sun Yat-Sen University.
 
+# 👨‍💻 Internships
+- *2022.12 - Now*, Research Assistant, National Institute of Informatics, Tokyo, Japan.
+- *2022.05 - 2022.09*, NLP Research Intern, Alibaba DAMO Academy, Beijing, China.
+- *2020.12 - 2021.05*, NLP Research Intern, Baidu Inc., Shenzhen, China.
+- *2020.08 - 2020.12*, NLP R&D Intern, Tencent Inc., Shenzhen, China.
+- *2019.10 - 2020.08*, NLP Research Intern, Didi Chuxing AI Labs, Beijing, China.
+- *2018.07 - 2019.01*, AI Research Intern, Likelihood Lab, Guangzhou, China.
+
 # 📝 Publications 
 ## Journals
+- An Wang, Huidong Jiang, Youmi Ma, **Junfeng Jiang**, Ao Liu, & Okazaki, Naoaki. (2025). *Improving Implicit Sentiments Analysis via Explanations of Multiple Perspectives*, in IEEE Access, doi: 10.1109/ACCESS.2025.3556762.
 - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*, in IEEE Access, vol. 12, pp. 19752-19764, 2024, doi: 10.1109/ACCESS.2024.3360885.
 
 ## Conference Papers
@@ -72,6 +79,7 @@ Any collaboration or discussion is welcome!
 # 🎖 Honors and Awards
 - N/A
 -->
+
 # 💰 Fundings
 - *2022.12 - 2023.03*, Self-directed and integrated project research, SPRING GX, JST. (~500K JPY)
 - *2022.04 - 2025.04*, SPRING GX, JST. (~1M JPY)
@@ -81,14 +89,6 @@ Any collaboration or discussion is welcome!
 - N/A
 -->
 
-# 👨‍💻 Internships
-- *2022.12 - Now*, Research Assistant, National Institute of Informatics, Tokyo, Japan.
-- *2022.05 - 2022.09*, NLP Research Intern, Alibaba DAMO Academy, Beijing, China.
-- *2020.12 - 2021.05*, NLP Research Intern, Baidu Inc., Shenzhen, China.
-- *2020.08 - 2020.12*, NLP R&D Intern, Tencent Inc., Shenzhen, China.
-- *2019.10 - 2020.08*, NLP Research Intern, Didi Chuxing AI Labs, Beijing, China.
-- *2018.07 - 2019.01*, AI Research Intern, Likelihood Lab, Guangzhou, China.
-
 # 👓 Committees
-- Invited Reviewer for conferences: COLING 2025; CIKM 2024; LREC-COLING 2024; ACL 2023; EACL 2023; EMNLP 2023,2022,2021.
-- Secondary Reviewer for conferences: IJCNLP-AACL 2023.
+- Invited Reviewer for conferences: COLING 2025; CIKM 2024; LREC-COLING 2024; ACL 2023, 2025; EACL 2023; EMNLP 2023,2022,2021.
+- Secondary Reviewer for conferences: ICML 2025; IJCNLP-AACL 2023.
