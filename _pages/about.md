@@ -38,8 +38,11 @@ Any collaboration or discussion is welcome!
 - *2019.09 - 2022.04*, M.S. in Computer Science (2.88/3.0), The University of Tokyo.
 - *2015.08 - 2019.07*, B.S. in Mathematics And Applied Mathematics (3.7/5.0), Sun Yat-Sen University.
 
+# 🐂 Work Experience
+- *2025.04 - Now*, Project Researcher, National Institute of Informatics, Tokyo, Japan.
+
 # 👨‍💻 Internships
-- *2022.12 - Now*, Research Assistant, National Institute of Informatics, Tokyo, Japan.
+- *2022.12 - 2025.04*, Research Assistant, National Institute of Informatics, Tokyo, Japan.
 - *2022.05 - 2022.09*, NLP Research Intern, Alibaba DAMO Academy, Beijing, China.
 - *2020.12 - 2021.05*, NLP Research Intern, Baidu Inc., Shenzhen, China.
 - *2020.08 - 2020.12*, NLP R&D Intern, Tencent Inc., Shenzhen, China.
