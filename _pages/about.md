@@ -25,13 +25,13 @@ Currently, I am working on research related to
 - Biomedical Language Model
 - Chain-of-thought Finetuning
 
-Any collaboration or discussion is welcome!
+Any collaboration or discussion is welcome! And I am also recruiting Research Assistant (RA) at NII LLMC. Please feel free to contact me with your CV/Resume via jiang (at) nii.ac.jp, if you are interested in this position. :)
 
 # 🔥 News
+- *2025.05*: 🎉 A paper was accepted as the ACL 2025 findings.
+- *2025.04*: 🎉 Our paper achieved the Best Presentation Award (最優秀賞) at 13th AAMT Seminar.
 - *2025.04*: 🎉 A journal paper was published in IEEE Access.
-- *2024.11*: 🎉 The paper about JMedBench was accepted by COLING 2025.
-- *2024.09*: 🎉 A paper about pre-training sequence design was accepted as the EMNLP 2024 findings.
-- *2024.01*: 💪🏻 A survey paper for SciLMs has been completed.
+- *2024.11*: 🎉 A paper was accepted by COLING 2025.
   
 # 📖 Educations
 - *2022.04 - Now*, Ph.D. candidate in Computer Science, The University of Tokyo. 
@@ -55,8 +55,9 @@ Any collaboration or discussion is welcome!
 - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*, in IEEE Access, vol. 12, pp. 19752-19764, 2024, doi: 10.1109/ACCESS.2024.3360885.
 
 ## Conference Papers
+- Chengzhi Zhong, Qianying Liu, Fei Cheng, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, Sadao Kurohashi. 2025. *What Language Do Non-English-Centric Large Language Models Think in?*. In Findings of the Association for Computational Linguistics: ACL 2025, to appear, Vienna, Austria. Association for Computational Linguistics. **(ACL 2025, findings)**.
 - **Junfeng Jiang**, Jiahao Huang, Akiko Aizawa. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models.* The 31st International Conference on Computational Linguistics. January, to appear. 2025. **(COLING 2025)** [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench); [[code]](https://github.com/nii-nlp/med-eval) ![](https://img.shields.io/github/stars/nii-nlp/med-eval?style=social&label=Stars).
-- **Junfeng Jiang**, Fei Cheng, and Akiko Aizawa. 2024. Improving Referring Ability for Biomedical Language Models. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 6444–6457, Miami, Florida, USA. Association for Computational Linguistics. **(EMNLP 2024, findings)**. [[paper]](https://aclanthology.org/2024.findings-emnlp.375.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg) ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars).
+- **Junfeng Jiang**, Fei Cheng, and Akiko Aizawa. 2024. *Improving Referring Ability for Biomedical Language Models*. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 6444–6457, Miami, Florida, USA. Association for Computational Linguistics. **(EMNLP 2024, findings)**. [[paper]](https://aclanthology.org/2024.findings-emnlp.375.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg) ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars).
 - Davide Baldelli, **Junfeng Jiang**, Akiko Aizawa and Paolo Torroni. *TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking*. In European Conference on Information Retrieval, vol 14608, pages 470-485, 2024, Springer. doi: 10.1007/978-3-031-56027-9_29. **(ECIR 2024)**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_29); [[code]](https://github.com/Dundalia/TWOLAR). ![](https://img.shields.io/github/stars/Dundalia/TWOLAR?style=social&label=Stars)
 - **Junfeng Jiang**, Chengzhang Dong, Sadao Kurohashi, Akiko Aizawa. *SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation*. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 4086–4101, Singapore. Association for Computational Linguistics. **(EMNLP 2023)**. [[paper]](https://aclanthology.org/2023.emnlp-main.249.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg). ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)
 - An Wang, **Junfeng Jiang**, Youmi Ma, Ao Liu, and Naoaki Okazaki. 2023. *Generative Data Augmentation for Aspect Sentiment Quad Prediction*. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 128–140, Toronto, Canada. Association for Computational Linguistics. **(\*SEM 2023)**. [[paper]](https://aclanthology.org/2023.starsem-1.12.pdf); [[code]](https://github.com/AnWang-AI/AugABSA). [![](https://img.shields.io/github/stars/AnWang-AI/AugABSA?style=social&label=Stars)](https://github.com/AnWang-AI/AugABSA)
@@ -67,7 +68,7 @@ Any collaboration or discussion is welcome!
 ## Preprints
 <!-- - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari (2023). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*. arXiv preprint arXiv:2310.06072. [[paper]](https://arxiv.org/pdf/2310.06072.pdf).-->
 <!-- - **Junfeng Jiang**, Jiahao Huang, Akiko Aizawa. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models*. arXiv preprint arXiv:2409.13317. [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench).-->
-- Chengzhi Zhong, Fei Cheng, Qianying Liu, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, & Sadao Kurohashi. *Beyond English-Centric LLMs: What Language Do Multilingual Language Models Think in?*. arXiv preprint arXiv:2408.10811. [[paper]](https://arxiv.org/pdf/2408.10811).
+<!-- - Chengzhi Zhong, Fei Cheng, Qianying Liu, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, & Sadao Kurohashi. *Beyond English-Centric LLMs: What Language Do Multilingual Language Models Think in?*. arXiv preprint arXiv:2408.10811. [[paper]](https://arxiv.org/pdf/2408.10811).-->
 - Xanh Ho\*, Anh Khoa Duong Nguyen\*, An Tuan Dao\*, **Junfeng Jiang**\*, Yuki Chida\*, Kaito Sugimoto\*, Huy Quoc To, Florian Boudin, Akiko Aizawa. *A Survey of Pre-trained Language Models for Processing Scientific Text*. arXiv preprint arXiv:2401.17824. [[paper]](https://arxiv.org/pdf/2401.17824).
 - Chao Xiong, Che Liu, Zijun Xu, **Junfeng Jiang**, Jieping Ye. *Sequential Sentence Matching Network for Multi-turn Response Selection in Retrieval-based Chatbots*. arXiv preprint arXiv:2005.07923. [[paper]](https://arxiv.org/pdf/2005.07923).
 - **Junfeng Jiang**, Jiahao Li. *Constructing financial sentimental factors in Chinese market using natural language processing*. arXiv preprint arXiv:1809.08390. [[paper]](https://arxiv.org/pdf/1809.08390); [[code]](https://github.com/Coldog2333/Financial-NLP). [![](https://img.shields.io/github/stars/Coldog2333/Financial-NLP?style=social&label=Stars)](https://github.com/Coldog2333/Financial-NLP)
@@ -78,10 +79,9 @@ Any collaboration or discussion is welcome!
 - BioMed-LLaMA [![](https://img.shields.io/github/stars/Coldog2333/BioMed-LLaMA?style=social&label=Stars)](https://github.com/Coldog2333/BioMed-LLaMA) is a project of continuous pre-training for biomedical LLM.
 - pytoflow [![](https://img.shields.io/github/stars/Coldog2333/pytoflow?style=social&label=Stars)](https://github.com/Coldog2333/pytoflow) is an unofficial PyTorch version implementation of [TOFlow: Video Enhancement with Task-Oriented Flow](http://toflow.csail.mit.edu/toflow_ijcv.pdf). [[demo]](https://www.bilibili.com/video/av39553558/).
 
-<!--
 # 🎖 Honors and Awards
-- N/A
--->
+- Best Presentation Award (最優秀賞) at [the 13th AAMT for Young Translation Research Group](https://aamt.info/event/seminar/20250321): What language do Japanese-specialized large language models think in?
+
 
 # 💰 Fundings
 - *2022.12 - 2023.03*, Self-directed and integrated project research, SPRING GX, JST. (~500K JPY)
