@@ -18,18 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 This is Junfeng JIANG (江俊锋，こう　しゅんほう). Currently, I am a project researcher at [the Research and Development Center for Large Language Models (LLMC)](https://llmc.nii.ac.jp/en/) of the National Institute of Informatics (NII). Previously, I was a PhD student at the University of Tokyo under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/ja/), supported by [SPRING GX Program](https://spring-gx.adm.s.u-tokyo.ac.jp/en/). 
 
-My research direction is focusing on developing biomedical large language models. My previous research direction is Document-grounded Dialogue System (DGDS). Any interesting discussion is welcome and my full publications can be accessed from Google Scholar.<a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'></a>).
+My research direction focuses on developing biomedical large language models. My previous research direction is the Document-grounded Dialogue System (DGDS). Any interesting discussion is welcome, and my full publications can be accessed from Google Scholar.<a href='https://scholar.google.com/citations?user=gvKNfGEAAAAJ'></a>).
 
 Currently, I am working on research related to
 - Large Language Model (not so large but large enough that cannot be fitted in a single A100 80GB GPU)
 - Biomedical Language Model
 - Chain-of-thought Finetuning
 
-Any collaboration or discussion is welcome! And I am also recruiting Research Assistant (RA) at NII LLMC. Please feel free to contact me with your CV/Resume via jiang (at) nii.ac.jp, if you are interested in this position. :)
+Any collaboration or discussion is welcome! And I am also recruiting Research Assistants (RAs) at NII LLMC. Please feel free to contact me with your CV/Resume via jiang (at) nii.ac.jp, if you are interested in this position. :)
 
 # 🔥 News
-- *2025.05*: 🎉 A paper was accepted as the ACL 2025 findings.
-- *2025.04*: 🎉 Our paper achieved the Best Presentation Award (最優秀賞) at 13th AAMT Seminar.
+- *2025.08*: 🎉 A paper was accepted as EMNLP 2025 Findings. See you in Suzhou!
+- *2025.05*: 🎉 A paper was accepted as ACL 2025 Findings.
+- *2025.04*: 🎉 Our paper achieved the Best Presentation Award (最優秀賞) at the 13th AAMT Seminar.
 - *2025.04*: 🎉 A journal paper was published in IEEE Access.
 - *2024.11*: 🎉 A paper was accepted by COLING 2025.
   
@@ -55,7 +56,8 @@ Any collaboration or discussion is welcome! And I am also recruiting Research As
 - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*, in IEEE Access, vol. 12, pp. 19752-19764, 2024, doi: 10.1109/ACCESS.2024.3360885.
 
 ## Conference Papers
-- Chengzhi Zhong, Qianying Liu, Fei Cheng, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, Sadao Kurohashi. 2025. *What Language Do Non-English-Centric Large Language Models Think in?*. In Findings of the Association for Computational Linguistics: ACL 2025, to appear, Vienna, Austria. Association for Computational Linguistics. **(ACL 2025, findings)**.
+- Kazuma Kobayashi, Zhen Wan, Fei Cheng, Yuma Tsuta, Xin Zhao, **Junfeng Jiang**, Jiahao Huang, Zhiyi Huang, Yusuke Oda, Rio Yokota, Yuki Arase, Daisuke Kawahara, Akiko Aizawa, Sadao Kurohashi. 2025. *Leveraging High-Resource English Corpora for Cross-lingual Domain Adaptation in Low-Resource Japanese Medicine via Continued Pre-training*. In Findings of the Association for Computational Linguistics: EMNLP 2025, to appear, Suzhou, China. Association for Computational Linguistics. **(EMNLP 2025, findings)**.
+- Chengzhi Zhong, Qianying Liu, Fei Cheng, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, and Sadao Kurohashi. 2025. What Language Do Non-English-Centric Large Language Models Think in?. In Findings of the Association for Computational Linguistics: ACL 2025, pages 26333–26346, Vienna, Austria. Association for Computational Linguistics. **(ACL 2025, findings)** [[paper]](https://aclanthology.org/2025.findings-acl.1350.pdf).
 - **Junfeng Jiang**, Jiahao Huang, Akiko Aizawa. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models.* The 31st International Conference on Computational Linguistics. January, to appear. 2025. **(COLING 2025)** [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench); [[code]](https://github.com/nii-nlp/med-eval) ![](https://img.shields.io/github/stars/nii-nlp/med-eval?style=social&label=Stars).
 - **Junfeng Jiang**, Fei Cheng, and Akiko Aizawa. 2024. *Improving Referring Ability for Biomedical Language Models*. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 6444–6457, Miami, Florida, USA. Association for Computational Linguistics. **(EMNLP 2024, findings)**. [[paper]](https://aclanthology.org/2024.findings-emnlp.375.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg) ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars).
 - Davide Baldelli, **Junfeng Jiang**, Akiko Aizawa and Paolo Torroni. *TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking*. In European Conference on Information Retrieval, vol 14608, pages 470-485, 2024, Springer. doi: 10.1007/978-3-031-56027-9_29. **(ECIR 2024)**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_29); [[code]](https://github.com/Dundalia/TWOLAR). ![](https://img.shields.io/github/stars/Dundalia/TWOLAR?style=social&label=Stars)
