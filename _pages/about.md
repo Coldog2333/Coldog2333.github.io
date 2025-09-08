@@ -28,6 +28,7 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome! And I am also recruiting Research Assistants (RAs) at NII LLMC. Please feel free to contact me with your CV/Resume via jiang (at) nii.ac.jp, if you are interested in this position. :)
 
 # 🔥 News
+- *2025.09*: 🎉 A paper was accepted as a full paper at NLPIR 2025. 
 - *2025.08*: 🎉 A paper was accepted as EMNLP 2025 Findings. See you in Suzhou!
 - *2025.05*: 🎉 A paper was accepted as ACL 2025 Findings.
 - *2025.04*: 🎉 Our paper achieved the Best Presentation Award (最優秀賞) at the 13th AAMT Seminar.
@@ -56,6 +57,7 @@ Any collaboration or discussion is welcome! And I am also recruiting Research As
 - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*, in IEEE Access, vol. 12, pp. 19752-19764, 2024, doi: 10.1109/ACCESS.2024.3360885.
 
 ## Conference Papers
+- Jiahao Huang, Fei Cheng, **Junfeng Jiang**, Kazuma Kobayashi, Akiko Aizawa. (2025, December). Language Bias in Multilingual RAG: A Case Study in the Japanese Medical Domain. In Proceedings of the 2025 9th International Conference on Natural Language Processing and Information Retrieval (to appear). **(NLPIR 2025)**.
 - Kazuma Kobayashi, Zhen Wan, Fei Cheng, Yuma Tsuta, Xin Zhao, **Junfeng Jiang**, Jiahao Huang, Zhiyi Huang, Yusuke Oda, Rio Yokota, Yuki Arase, Daisuke Kawahara, Akiko Aizawa, Sadao Kurohashi. 2025. *Leveraging High-Resource English Corpora for Cross-lingual Domain Adaptation in Low-Resource Japanese Medicine via Continued Pre-training*. In Findings of the Association for Computational Linguistics: EMNLP 2025, to appear, Suzhou, China. Association for Computational Linguistics. **(EMNLP 2025, findings)**.
 - Chengzhi Zhong, Qianying Liu, Fei Cheng, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, and Sadao Kurohashi. 2025. What Language Do Non-English-Centric Large Language Models Think in?. In Findings of the Association for Computational Linguistics: ACL 2025, pages 26333–26346, Vienna, Austria. Association for Computational Linguistics. **(ACL 2025, findings)** [[paper]](https://aclanthology.org/2025.findings-acl.1350.pdf).
 - **Junfeng Jiang**, Jiahao Huang, Akiko Aizawa. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models.* The 31st International Conference on Computational Linguistics. January, to appear. 2025. **(COLING 2025)** [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench); [[code]](https://github.com/nii-nlp/med-eval) ![](https://img.shields.io/github/stars/nii-nlp/med-eval?style=social&label=Stars).
