@@ -28,15 +28,13 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome! And I am also recruiting Research Assistants (RAs) at NII LLMC. Please feel free to contact me with your CV/Resume via jiang (at) nii.ac.jp, if you are interested in this position. :)
 
 # 🔥 News
+- *2025.09*: 🎓 Finally obtained my PhD degree.
 - *2025.09*: 🎉 A paper was accepted as a full paper at NLPIR 2025. 
 - *2025.08*: 🎉 A paper was accepted as EMNLP 2025 Findings. See you in Suzhou!
 - *2025.05*: 🎉 A paper was accepted as ACL 2025 Findings.
-- *2025.04*: 🎉 Our paper achieved the Best Presentation Award (最優秀賞) at the 13th AAMT Seminar.
-- *2025.04*: 🎉 A journal paper was published in IEEE Access.
-- *2024.11*: 🎉 A paper was accepted by COLING 2025.
   
 # 📖 Educations
-- *2022.04 - Now*, Ph.D. candidate in Computer Science, The University of Tokyo. 
+- *2022.04 - 2025.09*, Ph.D. in Computer Science, The University of Tokyo.
 - *2019.09 - 2022.04*, M.S. in Computer Science (2.88/3.0), The University of Tokyo.
 - *2015.08 - 2019.07*, B.S. in Mathematics And Applied Mathematics (3.7/5.0), Sun Yat-Sen University.
 
