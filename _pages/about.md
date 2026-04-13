@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+lang: en
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,10 +29,11 @@ Currently, I am working on research related to
 Any collaboration or discussion is welcome! And I am also recruiting Research Assistants (RAs) at NII LLMC. Please feel free to contact me with your CV/Resume via jiang (at) nii.ac.jp, if you are interested in this position. :)
 
 # 🔥 News
+- *2026.04*: 🎉 A paper was accepted by ACL 2026 main conference paper. 
+- *2026.02*: 🎉 A paper was accepted by LREC 2026. 
 - *2025.09*: 🎓 Finally obtained my PhD degree.
 - *2025.09*: 🎉 A paper was accepted as a full paper at NLPIR 2025. 
 - *2025.08*: 🎉 A paper was accepted as EMNLP 2025 Findings. See you in Suzhou!
-- *2025.05*: 🎉 A paper was accepted as ACL 2025 Findings.
   
 # 📖 Educations
 - *2022.04 - 2025.09*, Ph.D. in Computer Science, The University of Tokyo.
@@ -55,10 +57,12 @@ Any collaboration or discussion is welcome! And I am also recruiting Research As
 - Detai Xin\*, **Junfeng Jiang**\*, Shinnosuke Takamichi, Yuki Saito, Akiko Aizawa, & Hiroshi Saruwatari. (2024). *JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions*, in IEEE Access, vol. 12, pp. 19752-19764, 2024, doi: 10.1109/ACCESS.2024.3360885.
 
 ## Conference Papers
-- Jiahao Huang, Fei Cheng, **Junfeng Jiang**, Kazuma Kobayashi, Akiko Aizawa. (2025, December). Language Bias in Multilingual RAG: A Case Study in the Japanese Medical Domain. In Proceedings of the 2025 9th International Conference on Natural Language Processing and Information Retrieval (to appear). **(NLPIR 2025)**.
-- Kazuma Kobayashi, Zhen Wan, Fei Cheng, Yuma Tsuta, Xin Zhao, **Junfeng Jiang**, Jiahao Huang, Zhiyi Huang, Yusuke Oda, Rio Yokota, Yuki Arase, Daisuke Kawahara, Akiko Aizawa, Sadao Kurohashi. 2025. *Leveraging High-Resource English Corpora for Cross-lingual Domain Adaptation in Low-Resource Japanese Medicine via Continued Pre-training*. In Findings of the Association for Computational Linguistics: EMNLP 2025, to appear, Suzhou, China. Association for Computational Linguistics. **(EMNLP 2025, findings)**.
+- Fan Gao, Sherry T. Tong, Jiwoong Sohn, Jiahao Huang, **Junfeng Jiang**, Ding Xia, Piyalitt Ittichaiwong, Kanyakorn Veerakanjana, Hyunjae Kim, Qingyu Chen, Edison Marrese-Taylor, Kazuma Kobayashi, Akiko Aizawa, Irene Li. *MED-COREASONER: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning*. In the Association for Computational Linguistics: ACL 2026, to appear, San Diego, California, United States. Association for Computational Linguistics. **(ACL 2026)**
+- Akiko Aizawa, Yuki Arase, Fei Cheng, Jiahao Huang, Zhiyi Huang, **Junfeng Jiang**, Teruhito Kanazawa, Daisuke Kawahara, Kazuma Kobayashi, Takashi Kodama, Sadao Kurohashi, Yusuke Oda, Yuma Tsuta, Zhen Wan, Zhishen Yang and Rio Yokota. (to appear). *Building Effective Japanese Medical LLMs with an Open Recipe for Domain Adaptation through Continued Pre-training*. In Proceedings of the Fifteenth International Conference on Language Resources and Evaluation **(LREC 2026)**.
+- Jiahao Huang, Fei Cheng, **Junfeng Jiang**, Kazuma Kobayashi, Akiko Aizawa. (2025, December). *Language Bias in Multilingual RAG: A Case Study in the Japanese Medical Domain*. In Proceedings of the 2025 9th International Conference on Natural Language Processing and Information Retrieval, December, Fukuoka, Japan. **(NLPIR 2025)**.
+- Kazuma Kobayashi, Zhen Wan, Fei Cheng, Yuma Tsuta, Xin Zhao, **Junfeng Jiang**, Jiahao Huang, Zhiyi Huang, Yusuke Oda, Rio Yokota, Yuki Arase, Daisuke Kawahara, Akiko Aizawa, and Sadao Kurohashi. 2025. *Leveraging High-Resource English Corpora for Cross-lingual Domain Adaptation in Low-Resource Japanese Medicine via Continued Pre-training*. In Findings of the Association for Computational Linguistics: EMNLP 2025, pages 11469–11488, Suzhou, China. Association for Computational Linguistics. **(EMNLP 2025, findings)**.
 - Chengzhi Zhong, Qianying Liu, Fei Cheng, **Junfeng Jiang**, Zhen Wan, Chenhui Chu, Yugo Murawaki, and Sadao Kurohashi. 2025. What Language Do Non-English-Centric Large Language Models Think in?. In Findings of the Association for Computational Linguistics: ACL 2025, pages 26333–26346, Vienna, Austria. Association for Computational Linguistics. **(ACL 2025, findings)** [[paper]](https://aclanthology.org/2025.findings-acl.1350.pdf).
-- **Junfeng Jiang**, Jiahao Huang, Akiko Aizawa. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models.* The 31st International Conference on Computational Linguistics. January, to appear. 2025. **(COLING 2025)** [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench); [[code]](https://github.com/nii-nlp/med-eval) ![](https://img.shields.io/github/stars/nii-nlp/med-eval?style=social&label=Stars).
+- **Junfeng Jiang**, Jiahao Huang, and Akiko Aizawa. 2025. *JMedBench: A Benchmark for Evaluating Japanese Biomedical Large Language Models*. In Proceedings of the 31st International Conference on Computational Linguistics, pages 5918–5935, Abu Dhabi, UAE. Association for Computational Linguistics. **(COLING 2025)** [[paper]](https://arxiv.org/pdf/2409.13317); [[data]](https://huggingface.co/datasets/Coldog2333/JMedBench); [[code]](https://github.com/nii-nlp/med-eval) ![](https://img.shields.io/github/stars/nii-nlp/med-eval?style=social&label=Stars).
 - **Junfeng Jiang**, Fei Cheng, and Akiko Aizawa. 2024. *Improving Referring Ability for Biomedical Language Models*. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 6444–6457, Miami, Florida, USA. Association for Computational Linguistics. **(EMNLP 2024, findings)**. [[paper]](https://aclanthology.org/2024.findings-emnlp.375.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg) ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars).
 - Davide Baldelli, **Junfeng Jiang**, Akiko Aizawa and Paolo Torroni. *TWOLAR: a TWO-step LLM-Augmented distillation method for passage Reranking*. In European Conference on Information Retrieval, vol 14608, pages 470-485, 2024, Springer. doi: 10.1007/978-3-031-56027-9_29. **(ECIR 2024)**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_29); [[code]](https://github.com/Dundalia/TWOLAR). ![](https://img.shields.io/github/stars/Dundalia/TWOLAR?style=social&label=Stars)
 - **Junfeng Jiang**, Chengzhang Dong, Sadao Kurohashi, Akiko Aizawa. *SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation*. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 4086–4101, Singapore. Association for Computational Linguistics. **(EMNLP 2023)**. [[paper]](https://aclanthology.org/2023.emnlp-main.249.pdf); [[code]](https://github.com/Coldog2333/SuperDialseg). ![](https://img.shields.io/github/stars/Coldog2333/SuperDialseg?style=social&label=Stars)
