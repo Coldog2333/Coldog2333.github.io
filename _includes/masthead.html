@@ -1,13 +1,43 @@
+{% assign lang_base = '' %}
+{% if page.lang == 'zh' %}
+  {% assign lang_base = '/zh' %}
+{% elsif page.lang == 'ja' %}
+  {% assign lang_base = '/ja' %}
+{% endif %}
+{% if lang_base == '' %}
+  {% assign home_anchor = '/#about-me' %}
+{% else %}
+  {% assign home_anchor = lang_base | append: '/#about-me' %}
+{% endif %}
+{% if page.lang == 'zh' %}
+  {% assign nav_links = site.data.navigation_zh.main %}
+  {% assign home_label = '主页' %}
+{% elsif page.lang == 'ja' %}
+  {% assign nav_links = site.data.navigation_ja.main %}
+  {% assign home_label = 'ホーム' %}
+{% else %}
+  {% assign nav_links = site.data.navigation.main %}
+  {% assign home_label = 'Homepage' %}
+{% endif %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ home_anchor }}">{{ home_label }}</a></li>
+          {% for link in nav_links %}
+            {% assign nav_url = link.url %}
+            {% if lang_base != '' %}
+              {% assign nav_url = lang_base | append: link.url %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ nav_url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__menu-item--lang">
+            <span class="lang-switcher">
+              <a href="/#about-me" class="lang-switcher__link{% unless page.lang == 'zh' or page.lang == 'ja' %} lang-switcher__link--active{% endunless %}">EN</a><span class="lang-switcher__sep">·</span><a href="/zh/#about-me" class="lang-switcher__link{% if page.lang == 'zh' %} lang-switcher__link--active{% endif %}">中文</a><span class="lang-switcher__sep">·</span><a href="/ja/#about-me" class="lang-switcher__link{% if page.lang == 'ja' %} lang-switcher__link--active{% endif %}">日本語</a>
+            </span>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

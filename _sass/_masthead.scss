@@ -59,6 +59,33 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &--lang {
+    margin-left: 0.35em;
+    padding-left: 0.35em;
+    border-left: 1px solid $border-color;
+  }
+}
+
+.lang-switcher {
+  font-size: 0.85em;
+  font-weight: 600;
+
+  &__sep {
+    margin: 0 0.2em;
+    color: $gray;
+    font-weight: 400;
+  }
+
+  &__link {
+    color: $masthead-link-color;
+
+    &--active {
+      color: $primary-color;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+  }
 }
 
 
