@@ -33,11 +33,6 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ nav_url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item masthead__menu-item--lang">
-            <span class="lang-switcher">
-              <a href="/#about-me" class="lang-switcher__link{% unless page.lang == 'zh' or page.lang == 'ja' %} lang-switcher__link--active{% endunless %}">EN</a><span class="lang-switcher__sep">·</span><a href="/zh/#about-me" class="lang-switcher__link{% if page.lang == 'zh' %} lang-switcher__link--active{% endif %}">中文</a><span class="lang-switcher__sep">·</span><a href="/ja/#about-me" class="lang-switcher__link{% if page.lang == 'ja' %} lang-switcher__link--active{% endif %}">日本語</a>
-            </span>
-          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
